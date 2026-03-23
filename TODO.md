@@ -1,0 +1,1 @@
+- make cross-compiled release binaries for each platform
